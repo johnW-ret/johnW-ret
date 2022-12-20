@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**johnW-ret/johnW-ret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am looking for open-source .NET repositories to contribute to. Here's what I love working on
+- Blazor (Server!)
+- ASP.NET Core (Minimal APIs!)
+- Unity
 
-Here are some ideas to get you started:
+Here are a few of my interests:
+- HLSL
+- [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
+- Math!
+- Japanese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my projects at [retruate.studio](https://retruate.studio)
+- I regularly look for code to migrate from my closed-source projects into open-source repositories. If you see anything that catches your eye, please let me know at ``contact at retruate dot studio``!
